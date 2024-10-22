@@ -1,6 +1,6 @@
 # Weekly Learning Journey
 
-## Week 1: Exciting News!
+## Admission: Exciting News!
 
 I'm thrilled to share some exciting news: I've been admitted to Altschool Africa's prestigious cloud engineering program! 🚀 After completing a rigorous entrance assessment and scoring 84%, I'm honored to join the ranks of passionate learners at Altschool Africa School of Engineering.
 

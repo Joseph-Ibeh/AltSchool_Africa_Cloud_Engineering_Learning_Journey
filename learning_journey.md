@@ -1,16 +1,28 @@
-# Weekly Learning Journey
+# Weekly Learning Journey Overview
 
-## Week 1: Exciting News!
+Welcome to my learning journey as I transition from biology to cloud engineering at Altschool Africa! Below are links to my weekly updates detailing my progress and experiences.
 
-I'm thrilled to share some exciting news: I've been admitted to Altschool Africa's prestigious cloud engineering program! 🚀 After completing a rigorous entrance assessment and scoring 84%, I'm honored to join the ranks of passionate learners at Altschool Africa School of Engineering.
+## Weekly Updates
+- [Week 1: Exciting News!](Week_1/README.md)  
+- [Week 2: Title of Week 2](Week_2/README.md)  
+- [Week 3: Title of Week 3](Week_3/README.md)  
+- [Week 4: Title of Week 4](Week_4/README.md)  
+- [Week 5: Title of Week 5](Week_5/README.md)  
+- [Week 6: Title of Week 6](Week_6/README.md)  
+- [Week 7: Title of Week 7](Week_7/README.md)  
+- [Week 8: Title of Week 8](Week_8/README.md)  
+- [Week 9: Title of Week 9](Week_9/README.md)  
+- [Week 10: Title of Week 10](Week_10/README.md)  
+- [Week 11: Title of Week 11](Week_11/README.md)  
+- [Week 12: Title of Week 12](Week_12/README.md)  
+- [Week 13: Title of Week 13](Week_13/README.md)  
+- [Week 14: Title of Week 14](Week_14/README.md)  
+- [Week 15: Title of Week 15](Week_15/README.md)  
+- [Week 16: Title of Week 16](Week_16/README.md)  
+- [Week 17: Title of Week 17](Week_17/README.md)  
+- [Week 18: Title of Week 18](Week_18/README.md)  
+- [Week 19: Title of Week 19](Week_19/README.md)  
+- [Week 20: Title of Week 20](Week_20/README.md)  
 
-This journey represents a significant step forward in my career transition from biology to technology. With a strong foundation in scientific inquiry and a newfound passion for cloud engineering, I'm eager to dive deep into this dynamic field.
+Thank you for following my journey! 💡
 
-I'm grateful for the opportunity to learn from industry experts [Jerry Uke](#) [Tabitha Kavyu](#) [Abubakar Siddiq Ango](#) and collaborate with fellow students who share my enthusiasm for innovation. As I embark on this new chapter, I'm committed to leveraging my skills and knowledge to make a positive impact in the world.
-
-![Learning Journey](path/to/your/image2.jpg) <
-
-A heartfelt thank you to everyone who has supported me along the way. Let's connect and explore opportunities to learn, grow, and innovate together! 💡 
-
-**AltSchool Africa Cloud Engineering Team**  
-#ExcitingJourney #CareerTransition #AltSchoolAfrica

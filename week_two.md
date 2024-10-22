@@ -1,4 +1,4 @@
-# Week One: Leveling Up My Tech Game 🚀
+# Week two: Leveling Up My Tech Game 🚀
 
 Yesterday marked an exciting milestone in my tech journey! I created accounts on key platforms including GitHub**, Figma, Slack, Codesandbox, Netlify, and more! 💻✨ 
 
@@ -19,4 +19,4 @@ The session was interactive—questions were asked, insightful answers were shar
 
 Let’s connect, share ideas, and collaborate! If you haven’t already, feel free to reach out and join me in this adventure! 🤝 
 
-![Week one](https://github.com/Joseph-Ibeh/AltSchool_learning_journey/blob/main/images/28th%20sept.%202024.jpg)
+![Week two](https://github.com/Joseph-Ibeh/AltSchool_learning_journey/blob/main/images/28th%20sept.%202024.jpg)

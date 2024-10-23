@@ -31,7 +31,7 @@ Big O notation is a mathematical representation used to describe the efficiency 
 
 - Error Handling: This involves anticipating and managing errors that may occur during program execution, ensuring the program can handle unexpected inputs gracefully.
 
-- Memory Management and File I/O**: These concepts cover how programs use memory (allocating and freeing it) and how to read from and write to files, essential for persistent data storage.
+- Memory Management and File I/O: These concepts cover how programs use memory (allocating and freeing it) and how to read from and write to files, essential for persistent data storage.
 
 ## Web Development Basics
 I also got my first taste of web development using HTML, CSS, and JavaScript. These technologies are foundational for creating interactive and visually appealing websites. HTML structures the content, CSS styles it, and JavaScript adds interactivity, enabling dynamic user experiences. 🌐

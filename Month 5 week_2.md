@@ -5,7 +5,7 @@ Last week, I delved into some essential topics in cloud engineering at AltSchool
 ## Systemd Mastery
 I explored systemd, which is used to manage services on Linux systems. I learned how to:
 - Start, stop, and enable services (e.g., `systemctl start apache2.service`)
-- Monitor services effectively with `journalctl`
+- Monitor services effectively with `journalctl` 
 
 Understanding systemd has shown me how essential service management is to ensure smooth and reliable operations across systems.
 

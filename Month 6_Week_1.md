@@ -2,7 +2,7 @@
 
 ### Networking Fundamentals: IP Addresses, Binary, Netmask, and Classification
 
-Last week, I had the opportunity to dive into some key networking concepts as part of my studies at the AltSchool Africa Cloud Engineering Program. Here’s a summary of what I learned:
+Last week, I had the opportunity to dive into some key networking concepts as part of my studies at the AltSchool Africa Cloud Engineering Program. Here’s a summary of what I learned: 
 
 ### IP Addresses
 An IP (Internet Protocol) address is a unique identifier assigned to devices on a network, enabling them to communicate with each other. There are two versions of IP addresses:

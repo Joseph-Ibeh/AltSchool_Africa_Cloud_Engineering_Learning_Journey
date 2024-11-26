@@ -48,4 +48,4 @@ IP addresses are categorized based on their usage and range. The primary classes
 - Class E: IP addresses from `240.0.0.0` to `255.255.255.255`. Reserved for experimental use.
 
 ### Conclusion
-This week’s lessons on IP addresses, binary conversion, netmask calculations, and classification of IP addresses have provided me with crucial networking knowledge. These fundamentals will be essential for future topics in cloud engineering and networking, laying the groundwork for more advanced cloud infrastructure concepts.
+Last week’s lessons on IP addresses, binary conversion, netmask calculations, and classification of IP addresses have provided me with crucial networking knowledge. These fundamentals will be essential for future topics in cloud engineering and networking, laying the groundwork for more advanced cloud infrastructure concepts.

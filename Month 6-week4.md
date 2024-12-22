@@ -1,5 +1,4 @@
 # Weekly Learning Journey: Exploring AWS Hands-On  
-
 Last week, I immersed myself in hands-on AWS learning and gained practical experience with core AWS services. Here's a summary of the concepts I explored:  
 
 ## 1. AWS Regions and Availability Zones  

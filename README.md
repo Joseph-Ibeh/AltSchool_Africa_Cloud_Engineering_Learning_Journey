@@ -1,2 +1,1 @@
-# AltSchool_learning_journey
-Documenting my Cloud Engineering learning journey at AltSchool Africa, School of Engineering 
+Note: This repository contains my Cloud Engineering learning journey, which I originally documented on personal notes, LinkedIn, and Twitter. The learning journey started much earlier, and this repository serves as a consolidated version.
